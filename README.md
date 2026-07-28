@@ -2,6 +2,9 @@
 
 A browser-based typing speed test with timed and passage modes, multiple difficulty levels, and personal best tracking.
 
+## Live Demo
+https://cool-typing-test.netlify.app/
+
 ![Preview image](/preview.jpg)
 
 ## Features
